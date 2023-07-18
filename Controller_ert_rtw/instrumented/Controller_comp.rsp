@@ -1,0 +1,7 @@
+-I"D:\IT AE\AE - Customer Facing\Control Systems\Models\RobotArm - 19a\work"
+-I"D:\IT AE\AE - Customer Facing\Control Systems\Models\RobotArm - 19a\work\Controller_ert_rtw"
+-I"C:\Program Files\MATLAB\R2019a\extern\include"
+-I"C:\Program Files\MATLAB\R2019a\simulink\include"
+-I"C:\Program Files\MATLAB\R2019a\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2019a\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2019a\rtw\c\ert"

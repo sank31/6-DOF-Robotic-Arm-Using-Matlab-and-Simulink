@@ -1,0 +1,30 @@
+Open Project robotArm.prj
+
+
+1) 
+Control System Tuner allows you to automatically tune multiple cascade
+PIDs all at once.
+
+In so doing:
+
+1) open closedLoop_toTune.slx in the "GENERAL" shortcut
+2) run --> see results in the scope
+3) open Control System Tuner from the Callback block
+4) see goals and then automatically tune
+5) update blocks and go back to the main model
+6) run --> see results in the scope
+
+
+2) 
+This demo can also be used to see the new SL Test features in 19a:
+- temporal assessment ('closedLoop_tuned_temporalAssessments_Harness.slx')
+- observer ('closedLoop_Harness.slx')
+
+In so doing:
+
+1) open closedLoopTest in the "TESTS" shortcut
+2) run tests
+3) go back to the main model "closedLoop_tuned.slx" from the Test
+   Manager to see requirements view
+4) go back to harness 'closedLoop_Harness.slx' from the Test Manager to
+   see observers.
